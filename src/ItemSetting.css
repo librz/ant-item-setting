@@ -1,0 +1,16 @@
+.item-setting-head {
+  border-left: 8px solid #6495ed;
+  padding-left: 8px;
+  line-height: 1;
+}
+
+.item-setting-body {
+  display: flex;
+  align-items: center;
+}
+
+.item-setting-body-left {
+  margin-right: 16px;
+  display: flex;
+  align-items: center;
+}
