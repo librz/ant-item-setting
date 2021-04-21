@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://www.widgets.realrz.com/ant-item-setting",
   "eslintConfig": {
     "extends": [
       "react-app",
